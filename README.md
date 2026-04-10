@@ -17,12 +17,12 @@ The main objectives are:
 
 ### 🔹 Churn Analysis - Summary
 
-<img width="819" height="375" alt="churn analysis" src="https://github.com/user-attachments/assets/b8aa99fa-52d5-466c-af17-d8adb80e17ee" />
+<img width="819" height="425" alt="churn analysis" src="https://github.com/user-attachments/assets/b8aa99fa-52d5-466c-af17-d8adb80e17ee" />
 
 
 ### 🔹 Churn Analysis - Prediction
 
-<img width="1274" height="717" alt="churn prediction" src="https://github.com/user-attachments/assets/0cef4e91-9059-4215-a368-92a83b4b69ce" />
+<img width="974" height="517" alt="churn prediction" src="https://github.com/user-attachments/assets/0cef4e91-9059-4215-a368-92a83b4b69ce" />
 
 
 ---
