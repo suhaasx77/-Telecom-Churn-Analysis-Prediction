@@ -13,20 +13,6 @@ The main objectives are:
 
 ---
 
-## 📊 Dashboard Preview
-
-### 🔹 Churn Analysis - Summary
-
-<img width="819" height="425" alt="churn analysis" src="https://github.com/user-attachments/assets/b8aa99fa-52d5-466c-af17-d8adb80e17ee" />
-
-
-### 🔹 Churn Analysis - Prediction
-
-<img width="874" height="417" alt="churn prediction" src="https://github.com/user-attachments/assets/0cef4e91-9059-4215-a368-92a83b4b69ce" />
-
-
----
-
 ## 📊 Dashboard Explanation
 
 ### 🔹 1. Executive Summary Page
@@ -110,4 +96,19 @@ This page highlights **future churners using a Machine Learning model**:
 ✔ Real-world Telecom Dataset
 ✔ Business Insights + Predictive Analytics
 ✔ Interactive Power BI Dashboard
+
+
+## 📊 Dashboard Preview
+
+### 🔹 Churn Analysis - Summary
+
+<img width="819" height="425" alt="churn analysis" src="https://github.com/user-attachments/assets/b8aa99fa-52d5-466c-af17-d8adb80e17ee" />
+
+
+### 🔹 Churn Analysis - Prediction
+
+<img width="874" height="417" alt="churn prediction" src="https://github.com/user-attachments/assets/0cef4e91-9059-4215-a368-92a83b4b69ce" />
+
+
+---
 
