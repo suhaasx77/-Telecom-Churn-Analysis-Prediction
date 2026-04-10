@@ -22,7 +22,7 @@ The main objectives are:
 
 ### 🔹 Churn Analysis - Prediction
 
-<img width="974" height="517" alt="churn prediction" src="https://github.com/user-attachments/assets/0cef4e91-9059-4215-a368-92a83b4b69ce" />
+<img width="874" height="417" alt="churn prediction" src="https://github.com/user-attachments/assets/0cef4e91-9059-4215-a368-92a83b4b69ce" />
 
 
 ---
