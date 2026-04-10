@@ -17,11 +17,13 @@ The main objectives are:
 
 ### 🔹 Churn Analysis - Summary
 
-![Summary Dashboard](./assets/summary.png)
+<img width="1119" height="625" alt="churn analysis" src="https://github.com/user-attachments/assets/b8aa99fa-52d5-466c-af17-d8adb80e17ee" />
+
 
 ### 🔹 Churn Analysis - Prediction
 
-![Prediction Dashboard](./assets/prediction.png)
+<img width="1274" height="717" alt="churn prediction" src="https://github.com/user-attachments/assets/0cef4e91-9059-4215-a368-92a83b4b69ce" />
+
 
 ---
 
